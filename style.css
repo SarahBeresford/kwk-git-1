@@ -1,0 +1,263 @@
+body{
+    background-color: #e4d9ff;
+}
+
+.header{
+    text-align: center;
+    font-family: "Kanit", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    color: #30343f;  
+    background-color: #fafaff;
+    display: flex;
+    justify-content: flex-start;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-evenly;   
+}
+
+.paragraphs{
+    font-family: "Kanit", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    text-align: center;
+}
+
+.list{
+    list-style:inside;
+    text-align: center;
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-size: large;
+    font-style: normal;
+    color: #1e2749;
+}
+
+img{
+    width: 300px;
+    height: 300px;
+}
+.imghome{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+a{
+    color:#e5fcff;
+    background-color: rebeccapurple;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+h1{
+    text-align: center;
+    font-family: "Kanit", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    color: #30343f;  
+    background-color: #fafaff;  
+}
+
+.favathletes{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+.iga{
+    text-align: center;
+    font-family: "Kanit", sans-serif;
+    font-weight: 500;
+    font-size: large;
+    font-style: normal;
+    color: #1e2749;  
+}
+
+.kiki{
+    text-align: center;
+    font-family: "Kanit", sans-serif;
+    font-weight: 500;
+    font-size: large;
+    font-style: normal;
+    color: #1e2749;  
+}
+
+.femke{
+    text-align: center;
+    font-family: "Kanit", sans-serif;
+    font-weight: 500;
+    font-size: large;
+    font-style: normal;
+    color: #1e2749; 
+}
+
+.tiana{
+    text-align: center;
+    font-family: "Kanit", sans-serif;
+    font-weight: 500;
+    font-size: large;
+    font-style: normal;
+    color: #1e2749;
+}
+
+.athletes{
+    height: 200px;
+    width: 200px;
+    object-fit: contain;
+}
+
+.s{
+    text-align: center;
+    font-family: "Kanit", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    color: #30343f;  
+    background-color: #fafaff;  
+}
+
+.favartists1{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+.abba{
+    text-align: center;
+    font-family: "Kanit", sans-serif;
+    font-weight: 500;
+    font-size: x-large;
+    font-style: normal;
+    color: #1e2749;
+}
+
+.fionaapple{
+    text-align: center;
+    font-family: "Kanit", sans-serif;
+    font-weight: 500;
+    font-size: x-large;
+    font-style: normal;
+    color: #1e2749; 
+}
+
+.marina{
+    text-align: center;
+    font-family: "Kanit", sans-serif;
+    font-weight: 500;
+    font-size: x-large;
+    font-style: normal;
+    color: #1e2749;
+}
+
+.favartists2{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+.ldr{
+    text-align: center;
+    font-family: "Kanit", sans-serif;
+    font-weight: 500;
+    font-size: x-large;
+    font-style: normal;
+    color: #1e2749;
+}
+
+.artists{
+    width: 200px;
+    height: 200px;
+}
+
+.taylorswift{
+    text-align: center;
+    font-family: "Kanit", sans-serif;
+    font-weight: 500;
+    font-size: x-large;
+    font-style: normal;
+    color: #1e2749;
+}
+
+.beyonce{
+    text-align: center;
+    font-family: "Kanit", sans-serif;
+    font-weight: 500;
+    font-size: x-large;
+    font-style: normal;
+    color: #1e2749;
+}
+
+.favmovies{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly; 
+}
+.movies{
+    height: 300px;
+    width: 200px;
+
+}
+
+.prideandprejudice{
+    text-align: center;
+    font-family: "Kanit", sans-serif;
+    font-weight: 500;
+    font-size: x-large;
+    font-style: normal;
+    color: #1e2749;
+}
+
+.dirtydancing{
+    text-align: center;
+    font-family: "Kanit", sans-serif;
+    font-weight: 500;
+    font-size: x-large;
+    font-style: normal;
+    color: #1e2749;
+}
+
+.tsom{
+    text-align: center;
+    font-family: "Kanit", sans-serif;
+    font-weight: 500;
+    font-size: x-large;
+    font-style: normal;
+    color: #1e2749;
+}
+
+.favtvshows{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+.tvshows{
+    height: 300px;
+    width: 200px;
+}
+
+.hacks{
+    text-align: center;
+    font-family: "Kanit", sans-serif;
+    font-weight: 500;
+    font-size: x-large;
+    font-style: normal;
+    color: #1e2749;
+}
+
+.bridgerton{
+    text-align: center;
+    font-family: "Kanit", sans-serif;
+    font-weight: 500;
+    font-size: x-large;
+    font-style: normal;
+    color: #1e2749;
+}
+
+.tslocg{
+    text-align: center;
+    font-family: "Kanit", sans-serif;
+    font-weight: 500;
+    font-size: x-large;
+    font-style: normal;
+    color: #1e2749;
+}
